@@ -50,12 +50,6 @@ h1 {
   font-size: 40px;
 }
 
-.home-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1.5em;
-}
-
 
 header {
   align-items: center;
