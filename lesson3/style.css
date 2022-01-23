@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200&display=swap');
+
+
+:root {
+  --primary-color: #247BA0;
+  --secondary-color:#FFFCFF;
+  --accent1-color: #CBD4C2;
+  --accent2-color: #C3B299;
+
+}
+body {
+    background-color: white;
+    color: #50514F;
+    font-family: "Raleway", sans-serif;
+    font-size: 1em;
+    padding: 3em;
+}
+
+h1,h2,h3,h4 {
+    font-family: "Raleway", serif;
+    font-size: 30px;
+  }
+
+  nav ul {
+    font-size: 20px;
+    background-color:lightblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+  }
+
+  header {
+    align-items: center;
+    background-color: #247BA0;
+  }
+  
+
+  colors {
+    width: 100%;
+    min-width: 350px;
+    margin: auto;
+    text-align: center;
+  }
+  .colors th {
+    background-color: #999;
+  }
+  .colors td{
+    width: 25%;
+    height: 3em;
+  }
+  
+  .primary {
+    background-color: var(--primary-color);
+  }
+  .secondary {
+    background-color: var(--secondary-color);
+  }
+  .accent1 {
+    background-color: var(--accent1-color);
+  }
+  .accent2{
+    background-color: var(--accent2-color);
+  }
+  
