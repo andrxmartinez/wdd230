@@ -1,4 +1,0 @@
-<p id="getDate"></p>
-        <script>
-        document.getElementById("getDate").innerHTML = Date();
-        </script>
