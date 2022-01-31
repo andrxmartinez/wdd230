@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" media="screen and (max-width: 767px)" href= "small.css"/>
+    <link rel="stylesheet" media="screen and (min-width: 768px) and (max-width: 999px)" href= "medium.css"/>
+    <link rel="stylesheet" media="screen and (min-width: 1000px)" href= "large.css"/>
+    <title>Chamber of Commerce Home Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="navigation" >
+                <li><a href="#" onclick="toggleMenu()"> &#9776; Menu</a></li>
+                <li><img id="image" src="images.jpg" alt="Logo"> </li>
+                <p class="company_name">REBORN CHAMBER OF COMMERCE</p>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+            <br>
+        </nav>
+    </header>
+
+    <main>
+        <div class= "box-1">
+        <h1 class = "first-title">Event</h1>
+        </div>
+        <div class= "box-2">
+        <h2 class = "second-title">Hero with site name and call to action</h2>
+        </div>
+        <div class= "box-3">
+        <h3 class = "third-title">Spotlight 1<h3>
+        </div>
+        <div class= "box-4">
+            <h1 class = "fourth-title">Weather</h1>
+            </div>
+            <div class= "box-5">
+            <h2 class = "fifth-title">Join</h2>
+            </div>
+            <div class= "box-6">
+            <h3 class = "sixth-title">News Release<h3>
+            </div>
+            
+    </main>
+    <footer class="footer">
+        <div><img id="logo" src="images.jpg" alt="Logo"> </div>
+
+        <small class="reborn-address">REBORN CHAMBER OF COMMERCE. 
+            <br>185 S 3rd, Rexburg - Idaho </small>
+        <small class="reborn-email">faq@rebornchamber.com
+        <br>208-209-1011</small>
+        <small class= "reborn-date">
+            &copy; 2021 Reborn Chamber | Andres Martinez| WDD 230 Project | Last Modification: 
+            <small id="getDate"></small>
+        <script>
+        document.getElementById("getDate").innerHTML = Date();
+        </script>
+        </footer>
+</body>
+</html>
