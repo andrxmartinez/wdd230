@@ -1,8 +1,4 @@
-
-
-
-
-.navigation {
+/*.navigation {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -10,14 +6,15 @@
     gap: 10px;
   }
 
-main {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content:space-evenly;
-    gap: 10px;
+  main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+	  grid-template-rows: repeat(3, 1fr);
+    grid-gap: 5px;
+	  text-align: left;
 
-}
+  }
+
 footer{
     display: flex;
     flex-direction: column;
@@ -25,13 +22,7 @@ footer{
     justify-content: space-around;
     gap: 10px;
   }
-
-
-/*.spotlight div:last-child{
-	display:block;
-}
-
-.spotlight div:last-child{
-    display:none;
-    
+.box-3 div:last-child{
+  display:none;
+  
 }

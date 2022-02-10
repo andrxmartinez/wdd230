@@ -1,4 +1,4 @@
-.navigation {
+/*.navigation {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -14,6 +14,12 @@ main {
     gap: 10px;
 
 }
+
+.box-3 div:last-child{
+  display:none;
+  
+}
+
 footer{
     display: flex;
     flex-direction: column;
@@ -21,3 +27,7 @@ footer{
     justify-content: space-around;
     gap: 10px;
   }
+
+.box-3{
+  flex-direction: row;
+}
