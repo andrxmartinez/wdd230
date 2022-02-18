@@ -11,7 +11,7 @@ function preloadImage(img){
 const io = new IntersectionObserver(
     (entries, io) => {
         entries.forEach(entry => {
-            if(entry.isIntersecting){
+            if(!entry.isIntersecting){
                 return;
             } else{
                 preloadImage(entry.target)// call a function send in the image tht is currently intersecting
