@@ -31,4 +31,8 @@ function setStyles() {
 
 }
 
-bgcolorForm.onchange = populateStorage;
+// bgcolorForm.onchange = populateStorage;
+
+bgcolorForm.addEventListener('change', populateStorage);
+
+// localStorage.removeItem('bgColor');
