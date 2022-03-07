@@ -1,72 +1,85 @@
 {
     "Businesses": [
     {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg"
+        "name": "BYU Idaho",
+        "phone":"(208) 496-1411",
+        "website": "www.byui.edu",
+        "image": "directoryimages/image1.jpg" 
     },
 
     {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
+        "name": "State Farm",
+        "phone":"(208) 656-0444",
+        "website": "https://www.tammysluder.com/",
+        "image": "directoryimages/image2.jpg" 
     },
     {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
-    },
-
-    {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
+        "name": "Grease Monkey",
+        "phone":"(208) 359-0559",
+        "website": "www.greasemonkeyauto.com",
+        "image": "directoryimages/image3.jpg" 
     },
 
     {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
+        "name": "Dollar Tree",
+        "phone":"(208) 497-6357",
+        "website": "www.dollartree.com",
+        "image": "directoryimages/image4.jpg" 
     },
 
+    {
+        "name": "Rexburg Housing",
+        "phone":"(208) 356-6664",
+        "website": "www.rexburghousing.com",
+        "image": "directoryimages/image5.jpg" 
+    },
+
+    {
+        "name": "Albertsons",
+        "phone":"(208) 356-0555",
+        "website": "www.albertsons.com",
+        "image": "directoryimages/image6.jpg" 
+    },
+
+    {
+        "name": "Little Caesars",
+        "phone":"(208) 359-0071",
+        "website": "www.littlecaesars.com",
+        "image": "directoryimages/image7.jpg"  
+    },
+
+    {
+        "name": "Broulims",
+        "phone":"(208) 356-4651",
+        "website": "www.broulims.com",
+        "image": "directoryimages/image8.jpg" 
+    },
+
+    {
+        "name": "Walmart",
+        "phone":"(208) 359-2809",
+        "website": "www.walmart.com",
+        "image": "directoryimages/image9.jpg"  
+    },
+
+    {
+        "name": "Autozone",
+        "phone":"(208) 356-0360",
+        "website": "www.autozone.com",
+        "image": "directoryimages/image10.jpg"  
+    },
+    {
+        "name": "Affordable Pest Control",
+        "phone":"(208) 200-3071",
+        "website": "www.eastidahopestcontrol.com",
+        "image": "directoryimages/image11.jpg"  
+    },
     {
         "name": "0500 MECHANICS",
         "phone":"(208) 356-0500",
         "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
-    },
-
-    {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
-    },
-
-    {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
-    },
-
-    {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
-    },
-
-    {
-        "name": "0500 MECHANICS",
-        "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
-        "image": "image1.jpg" 
+        "image": "directoryimages/image12.jpg"  
     }
+
     ]
 }
