@@ -18,7 +18,7 @@ function displayBusinesses(business) {  // Create elements to add to the documen
 //   h2.textContent =`${prophet.name}  ${prophet.lastname}`;
 //   dob.textContent = `${prophet.birthdate}`;
 //   pob.textContent = `${prophet.birthplace}`;
-  img.setAttribute('src', `directoryimages/${business.image}`);
+    img.setAttribute('src', `${business.image}`);
 //   img.setAttribute('alt', `${prophet.name}  ${prophet.lastname} ${prophet.order}`);
 
 

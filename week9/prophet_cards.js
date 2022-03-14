@@ -22,7 +22,7 @@ fetch(requestURL)
     h2.textContent =`${prophet.name}  ${prophet.lastname}`;
     dob.textContent = `${prophet.birthdate}`;
     pob.textContent = `${prophet.birthplace}`;
-    img.setAttribute('src', Businesses.image);
+    img.setAttribute('src', prophet.image);
     img.setAttribute('alt', `${prophet.name}  ${prophet.lastname} ${prophet.order}`);
 
 
