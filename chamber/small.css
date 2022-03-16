@@ -30,16 +30,16 @@ body {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
-.fa {
+#directory-list, #directory-card {
     color: white;
-    border: none;
-    width: 1.5rem;
+    
+    
     padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
+    font-size: 20px;
+    
+    display: block;
+  
+    
 }
 
 .page-title>h2{
