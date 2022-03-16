@@ -127,4 +127,10 @@
         background-image:url(images/img1.jpg)
     }
 
+/* DIRECTORY*/
+div.cards {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
 }

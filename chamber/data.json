@@ -3,7 +3,7 @@
     {
         "name": "BYU Idaho",
         "phone":"(208) 496-1411",
-        "website": "www.byui.edu",
+        "website": "https://www.byui.edu",
         "image": "directoryimages/image1.jpg" 
     },
 
@@ -16,68 +16,68 @@
     {
         "name": "Grease Monkey",
         "phone":"(208) 359-0559",
-        "website": "www.greasemonkeyauto.com",
+        "website": "https://www.greasemonkeyauto.com",
         "image": "directoryimages/image3.jpg" 
     },
 
     {
         "name": "Dollar Tree",
         "phone":"(208) 497-6357",
-        "website": "www.dollartree.com",
+        "website": "https://www.dollartree.com",
         "image": "directoryimages/image4.jpg" 
     },
 
     {
         "name": "Rexburg Housing",
         "phone":"(208) 356-6664",
-        "website": "www.rexburghousing.com",
+        "website": "https://www.rexburghousing.com",
         "image": "directoryimages/image5.jpg" 
     },
 
     {
         "name": "Albertsons",
         "phone":"(208) 356-0555",
-        "website": "www.albertsons.com",
+        "website": "https://www.albertsons.com",
         "image": "directoryimages/image6.jpg" 
     },
 
     {
         "name": "Little Caesars",
         "phone":"(208) 359-0071",
-        "website": "www.littlecaesars.com",
+        "website": "https://www.littlecaesars.com",
         "image": "directoryimages/image7.jpg"  
     },
 
     {
         "name": "Broulims",
         "phone":"(208) 356-4651",
-        "website": "www.broulims.com",
+        "website": "https://www.broulims.com",
         "image": "directoryimages/image8.jpg" 
     },
 
     {
         "name": "Walmart",
         "phone":"(208) 359-2809",
-        "website": "www.walmart.com",
+        "website": "https://www.walmart.com",
         "image": "directoryimages/image9.jpg"  
     },
 
     {
         "name": "Autozone",
         "phone":"(208) 356-0360",
-        "website": "www.autozone.com",
+        "website": "https://www.autozone.com",
         "image": "directoryimages/image10.jpg"  
     },
     {
         "name": "Affordable Pest Control",
         "phone":"(208) 200-3071",
-        "website": "www.eastidahopestcontrol.com",
+        "website": "https://www.eastidahopestcontrol.com",
         "image": "directoryimages/image11.jpg"  
     },
     {
         "name": "0500 MECHANICS",
         "phone":"(208) 356-0500",
-        "website": "www.0500mechanics.com",
+        "website": "https://www.0500mechanics.com",
         "image": "directoryimages/image12.jpg"  
     }
 
