@@ -40,7 +40,7 @@
 }
 
 div.list section:nth-child(odd) {
-    background-color:#E0FFFF;
+    background-image:linear-gradient(#F3F9D2, white);
 }
 div.cards {
     display: grid;
