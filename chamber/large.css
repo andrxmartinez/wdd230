@@ -132,6 +132,11 @@ div.cards {
     grid-template-columns: repeat(3, 1fr);
 }
 
-
 }
+
+/* CONTACT*/
+.cards {
+    grid-template-columns:repeat(3, 1fr);
+}
+
 

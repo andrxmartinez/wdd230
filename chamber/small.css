@@ -507,8 +507,38 @@ div.list section:nth-child(odd) {
 .person1,
 .person2 ,
 .person3 {
-    display:inline-block;
-    margin: 60px;
     border: 1px solid rgba(0,0,0,0.1);
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.cards {
+    display:grid;
+
+}
+
+.card-1{
+    grid-column:1/2;
+    margin: 10px;
+    text-align: center;
+}
+
+.card-2{
+    grid-column:2/3;
+    margin: 10px;
+    text-align: center;
+}
+
+.card-3{
+    grid-column:3/4;
+    margin: 10px;
+    text-align: center;
+}
+
+form fieldset div p{
+    background-image:linear-gradient(#F3F9D2, white);
+    text-decoration: underline;
+    padding: 5px 5px;
+    width:65%;
+    margin:auto;
+    text-align: center;
 }
