@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1000px) {
+   
+    header{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+    }
+
+    
+    nav ul li a {
+        border-top: none;
+        border-right: 1px solid rgba(0,0,0,0.2);
+    }
+
+
+
+    nav ul#primaryNav {
+        display: flex;
+        justify-content: space-between;
+        padding: 50px;
+        font-size:20px;
+        color: white;
+        
+    }
+
+    .btn-area div {
+        display: none;
+
+    }
+}

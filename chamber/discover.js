@@ -1,6 +1,6 @@
 const images= document.querySelectorAll('img');
 
-const options = { threshold: [.5] }
+const options2 = { threshold: [.5] }
 
 function preloadImage(img){
     const source = img.getAttribute('data-src');
@@ -20,7 +20,7 @@ const io = new IntersectionObserver(
             }
         //  console.log(entries);
         });
-    }, options);    
+    }, options2);    
 
 images.forEach(images=> {
     io.observe(images);
