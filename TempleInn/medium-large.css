@@ -1,0 +1,25 @@
+@media only screen and (min-width: 900px) {
+    .container{
+        display: flex;
+        flex-direction:row;
+        justify-content:space-around;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .pictures{
+        margin: 10px;
+    }
+
+    .sandiego3{
+        display:block;
+    }
+
+    /*------------------- RESERVATION  -------------------*/
+
+/* .form-icon{
+    width: 90%;
+    margin: 3rem 3%;
+    display: block;
+} */
+}

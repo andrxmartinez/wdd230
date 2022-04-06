@@ -1,29 +1,84 @@
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1150px) {
    
     header{
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 
     }
-
-    
     nav ul li a {
         border-top: none;
         border-right: 1px solid rgba(0,0,0,0.2);
     }
-
-
 
     nav ul#primaryNav {
         display: flex;
         justify-content: space-between;
         padding: 50px;
         font-size:20px;
-        color: white;
-        
+        color: white;   
     }
 
+    .main-area {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    
+    }
+
+    .box2-grid{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+    }
+
+    .box2 a{
+        margin: 30px;
+    }
+
+    .container{
+        grid-row: 1/2;
+        display: flex;
+        flex-direction: row;
+        justify-content:space-around;
+    }
+
+    .sandiego2{
+        display: none;
+    }
     .btn-area div {
         display: none;
-
     }
+
+    .footer-image-address{
+        padding: 10px;
+        margin-left:-40px;
+        /* width: 51%; */
+    }
+
+    .medium-large-footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 0px;
+    }
+
+/*------------------- Temples -----------------*/
+
+div.cards {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+/*------------------- RESERVATION  -------------------*/
+
+.form-area{
+    display: grid;
+    grid-template-columns:1.5fr 2fr;
+    margin: 1.5em;
+    padding: 20px;
+    align-items: start;
+}
+
+.form-icon{
+    width: 100%;
+    margin: 3rem 3%;
+    display: block;
+}
 }

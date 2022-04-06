@@ -14,7 +14,8 @@ function weather(jsObject){
     const desc = jsObject.weather[0].description;
     document.querySelector('#weathericon').setAttribute('src', iconsrc);
     document.querySelector('#weathericon').setAttribute('alt', desc);
-    document.querySelector('figcaption').textContent = desc;
+    // document.querySelector('figcaption').textContent = desc;
+    console.log(jsObject.wind.speed);
     document.querySelector('#wind-speed').textContent = jsObject.wind.speed;
 
 }

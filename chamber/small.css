@@ -174,11 +174,6 @@ nav ul li a:hover{
     line-height: 1.5rem;
     text-align: center;
 }
-.container{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
 
 .box h2{
   /* background-color: rgb(55, 202, 188); */

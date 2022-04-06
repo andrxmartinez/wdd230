@@ -1,0 +1,34 @@
+{
+    "Temples": [
+    {
+        "name": "Rexburg - Idaho",
+        "phone":"(208) 496-1411",
+        "image": "images/rexburg.jpg", 
+        "address": "750 S 2nd E, Rexburg, ID 83440",
+        "hours": "Tue-Sat 6AM- 7:30PM"
+    },
+
+    {
+        "name": "Rome - Italy",
+        "phone":"(39) 06-9480-5050",
+        "image": "images/rome.jpg",
+        "address": "Via di Settebagni 376, Rome, Italy",
+        "hours": "Tue-Sat 6AM- 8PM"
+    },
+    {
+        "name": "Barranquilla - Colombia",
+        "phone":"(208) 359-0559",
+        "image": "images/barranquilla.jpg",
+        "address": "Cra 51B # 132-51,Barranquilla, Colombia",
+        "hours": "Tue-Sat 8AM- 6PM"
+    },
+
+    {
+        "name": "Washington DC",
+        "phone":"(208) 497-6357",
+        "image": "images/washington.jpg",
+        "address": "9900 Stoneybrook Dr, Kensington, MD 20895",
+        "hours": "Temporarily Closed"
+    }
+    ]
+}
